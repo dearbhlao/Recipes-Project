@@ -1,2 +1,2 @@
-# Recipes-Project
+# Odin Project - Recipes
 Creating a recipe webpage
